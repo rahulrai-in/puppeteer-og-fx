@@ -1,0 +1,14 @@
+{
+  "name": "delet",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "puppeteer": "^5.3.1",
+    "waait": "^1.0.5"
+  },
+  "devDependencies": {}
+}
